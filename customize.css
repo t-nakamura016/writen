@@ -9,6 +9,7 @@
 	flex: 1;
 }
 #myTab1Content{
+	
 	width: calc(100% + 10px);
 }
 .card-body{
